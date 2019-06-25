@@ -1,0 +1,5 @@
+.terraform
+.terraform/*
+modules/elasticache/variable.tf
+terraform.tfstate
+terraform.tfstate.backup
